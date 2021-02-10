@@ -1,6 +1,6 @@
-# CldrTestApp
+# Cldr Test App
 
-* Clone the report
+* Clone the rep
 * `mix deps.get`
 * `iex -S mix`
 
